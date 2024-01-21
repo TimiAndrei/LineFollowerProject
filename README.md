@@ -29,7 +29,7 @@ We incorporated the ball caster into the design, enhancing stability and offerin
 
 ## Code 📚
 
-![Link to Code](https://github.com/TimiAndrei/LineFollowerProject/blob/b017d0eec5a3a05816557d02e5c156ef7192d3d7/Resources/Proiect2.ino)
+[Link to Code](https://github.com/TimiAndrei/LineFollowerProject/blob/b017d0eec5a3a05816557d02e5c156ef7192d3d7/Resources/Proiect2.ino)
 
 ## Line Follower Assembled 🤖
 
